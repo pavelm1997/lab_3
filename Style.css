@@ -1,0 +1,39 @@
+body {
+     background: url(Fon.jpg) no-repeat;
+     background-size: 100%; 
+}
+
+img{
+    align-content: center;
+}
+#IdTitle{
+    width: 97%;
+}
+#IdBut{
+    width: 100%;
+}
+.InputTitleFilms{
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 2%;
+    margin-bottom: 0.5%;
+}
+.FilmInfo{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    height: 490px;
+    border: 2px dashed rgb(37, 116, 30);
+    border-radius: 20px;
+}
+#IdImg{
+    margin-top: 1%; 
+    margin-bottom: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
+    float: left;
+}
+h4{
+    color: rgb(8, 94, 8);
+}
